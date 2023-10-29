@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="ic_home_foreground">Home</string>
+    <string name="ic_menu_foreground">Menu</string>
+    <string name="ic_product_foreground">Product</string>
+    <string name="ic_profile_foreground">Profile</string>
+</resources>
